@@ -1,0 +1,7 @@
+Designator,Qty,Value,Description,Source,Cost,Link,Comments
+R1,1,10K,10K Resistor 1% 1/10W 0603,Yageo,0.00167,http://www.digikey.com/product-detail/en/yageo/RC0603FR-0710KL/311-10.0KHRTR-ND/726880,
+RV1,1,15K,15K Potentiometer,Bourns Inc.,0.126,http://www.digikey.com/product-detail/en/bourns-inc/TC33X-2-153E/TC33X-2-153E-ND/4700829,
+RV2,1,100K,100K Potentiometer,Bourns Inc.,0.147,http://www.digikey.com/product-detail/en/bourns-inc/TC33X-2-104E/TC33X-104ETR-ND/612859,
+C1,1,1000p,1000pF Capacitor 0402,Murata Electronics North America,0.0018,http://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM155R71H102KA01D/490-1303-2-ND/587225,
+U1,1,LM741,LM741 operational amplifier,Texas Instruments,0.66,http://www.digikey.com/product-detail/en/texas-instruments/LM741CN-NOPB/LM741CNNS-NOPB-ND/6322,
+,,TLV2771,TLV2771 operational amplifier,Texas Instruments,0.837,http://www.digikey.com/product-detail/en/texas-instruments/TLV2771CDBVR/296-1346-2-ND/276989,Alternative choice for op-amp (see README in GitHub)
